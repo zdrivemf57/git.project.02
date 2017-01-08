@@ -1,0 +1,11 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -10,5 +10,8 @@
+   <p>FH98で段落3を追加</p>
+ <<<<<<< HEAD
+   <p>ブランチA修正01</p>
++=======
++  <p>マスター修正01</p>
++>>>>>>> 763c29f0ea46129921793e7008141788a3fa2580
+ </body>
+ </html>
+\ No newline at end of file
