@@ -1,9 +1,7 @@
 diff a/index.html b/index.html	(rejected hunks)
-@@ -8,6 +8,10 @@
-   <p>段落1</p>
-   <p>SP4で段落2を追加</p>
+@@ -10,5 +10,8 @@
    <p>FH98で段落3を追加</p>
-+<<<<<<< HEAD
+ <<<<<<< HEAD
    <p>ブランチA修正01</p>
 +=======
 +  <p>マスター修正01</p>
